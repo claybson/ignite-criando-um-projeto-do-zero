@@ -62,8 +62,9 @@ http://localhost:3000 no seu navegador
 
 
 ## 📙 Referência
-<a href="https://www.notion.so/Desafio-01-Criando-um-projeto-do-zero-b1a3645d286b4eec93f5f1f5476d0ff7#92d70e817b204b86a244502f1a8a03ea">Desafio - Criando um projeto do zero</a>
-
+<a href="https://www.notion.so/Desafio-01-Criando-um-projeto-do-zero-b1a3645d286b4eec93f5f1f5476d0ff7#92d70e817b204b86a244502f1a8a03ea" target="_blank">Desafio - Criando um projeto do zero</a>
+<br>
+<a href="https://www.notion.so/Desafio-02-Adicionando-features-ao-blog-d466866c02544c79bbada9717c033d0a" target="_blank">Desafio 02 - Adicionando features ao blog</a>
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
